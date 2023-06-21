@@ -1,0 +1,41 @@
+
+
+body{
+    background-color:#bbe3eb;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+
+h1{
+    color: #ec5b5b;
+    font-size: 40px;
+    border: 10px dashed #E8A9A9;
+    background:#eee7e7;
+}
+
+img {
+    border: 7px solid #E8A9A9;
+}
+a{
+    font-size: 18px;
+
+}
+a:link{
+    color:rgb(218, 114, 80);
+}
+a:visited{
+    color:rgb(161, 97, 101);
+}
+a:hover{
+    color:cornflowerblue;
+}
+a:active{
+    color:chocolate;
+}
+ul{
+    border: 10px dashed #E8A9A9;
+    background:#eee7e7;
+    color: #eee7e7;
+}
